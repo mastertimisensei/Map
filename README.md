@@ -1,2 +1,2 @@
 # Map
-A map made with Python, getting coordinates from different coordinates in a txt file
+A map made with Python, getting coordinates from different coordinates(of volcanos) in a txt file
